@@ -1,0 +1,4 @@
+- `[x]` 1. Finalize models & repository methods for polls and moderation center
+- `[x]` 2. Update CreateCommunityPostScreen and PollCardWidget with full poll mechanics
+- `[x]` 3. Implement Moderation Center screens/tabs integration
+- `[x]` 4. Add unit tests and run verification (`flutter test` & `flutter analyze`)
